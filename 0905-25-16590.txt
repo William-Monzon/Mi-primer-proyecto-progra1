@@ -1,0 +1,10 @@
+ i. ¿Qué aprendiste sobre el flujo de trabajo con Git y 
+GitHub?
+Aprendí que es muy interesante, porque con unos simples comandos se ahorran mucho trabajo, tiempo y almacenamiento. Aprendí primero que todo a usar Git como iniciarlo y configurarlo, además aprendí a subir archivos a un repositorio para que se guarden y sepamos que cambios han hecho y cuando se hicieron. Y además con las ramas uno puede mejorar el archivo sin hacer cambios en el archivo principal hasta que se fusionen. En GitHub aprendí que se pueden hacer muy fácil los repositorio, para guardar tus programas y otras personas puedan revisar y ayudar a mejorarlos. Lo más interesante es que se puede clonar muy fácil con Git, una forma mucho más segura de clonar es usando la llave ssh y ahí podrás tener el repositorio en tu espacio local y cuando lo modifiques con push lo podes regresar al repositorio remoto de GitHub.
+
+ii. ¿Cómo fue la experiencia de trabajar en pareja? ¿Encontraste algún 
+conflicto? ¿Cómo lo resolviste? 
+No pude trabajar en parejas, pero estuve viendo algunos videos de como utilizar Git y GitHub de forma optima y que pasa cuando hay conflictos, a la vez como solucionarlos eligiendo cual cambio aceptar entre el commit de una rama, el commit de otra rama o la fusión de dos commit y al elegir la mejor opción que crean.
+
+iii. ¿Qué ventajas crees que tiene usar Git en proyectos de programación?
+Tiene muchas ventajas, pero la más notoria es el espacio que te ahorras a la hora de arreglar los programas, porque de la forma convencional para las distintas versiones de un programa se necesitan varios repositorios, pero con Git en una solo repositorio ya podes realizar los cambios y además tener el original a la vez, utilizando las ramas. Git también ahorra mucho tiempo para que las personas no estén creando y creando nuevos repositorios para los nuevos cambios en los programas, en cambio utiliza solo el primer repositorio y allí realiza los cambios o restaura el programa a su versión anterior.
