@@ -5,6 +5,7 @@ Aprendí que es muy interesante, porque con unos simples comandos se ahorran muc
 ii. ¿Cómo fue la experiencia de trabajar en pareja? ¿Encontraste algún 
 conflicto? ¿Cómo lo resolviste? 
 No pude trabajar en parejas, pero estuve viendo algunos videos de como utilizar Git y GitHub de forma optima y que pasa cuando hay conflictos, a la vez como solucionarlos eligiendo cual cambio aceptar entre el commit de una rama, el commit de otra rama o la fusión de dos commit y al elegir la mejor opción que crean.
+Un conflicto personal que tuve fue que al hacer el push solo se subía la rama main y no las otras ramas pero investigando pude encontrar la manera de subir todas las ramas.
 
 iii. ¿Qué ventajas crees que tiene usar Git en proyectos de programación?
 Tiene muchas ventajas, pero la más notoria es el espacio que te ahorras a la hora de arreglar los programas, porque de la forma convencional para las distintas versiones de un programa se necesitan varios repositorios, pero con Git en una solo repositorio ya podes realizar los cambios y además tener el original a la vez, utilizando las ramas. Git también ahorra mucho tiempo para que las personas no estén creando y creando nuevos repositorios para los nuevos cambios en los programas, en cambio utiliza solo el primer repositorio y allí realiza los cambios o restaura el programa a su versión anterior.
